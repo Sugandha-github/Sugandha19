@@ -1,8 +1,7 @@
-<h1 align="center">Hi, I'm Hema Sugandha Dasari 👋</h1>
-<p align="center"><i>Passionate about VLSI</i></p>
+<h1 align="left">Hi, I'm Hema Sugandha Dasari 👋</h1>
 
-<p align="center">
-  🎓 Post Graduation in Microelectronics VLSI, IIT Hyderabad &nbsp;|&nbsp; 📍 Hyderabad
+<p align="left">
+  Passionate about VLSI |🎓 Post Graduation in Microelectronics VLSI, IIT Hyderabad| &nbsp;|&nbsp; 📍 Hyderabad
 </p>
 
 ---
