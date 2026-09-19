@@ -13,10 +13,10 @@ Passionate about VLSI
 
 ### Projects
 
-- **[Digital Domain](https://github.com/trinathkella/Single_Precision_Floating_Point_Unit)**  
-  Designed and implemented arithmetic operations (add, sub, mul, div) on Zynq-7000 using Vivado and Xilinx SDK.
+- **[Digital Domain](https://github.com/Sugandha-github/digital_domain)**  
+  Designed and implemented Asynchronous Fifo and the SRAM based LUT design through Cadence Virtuoso
 
-- **[PRNG](https://github.com/trinathkella/PRNG)**  
+- **[Analog Domain](https://github.com/trinathkella/PRNG)**  
   Designed a 32-bit PRNG with different rulesets of 1D Cellular Automata. In addition, integrated the LFSR.
 
 ---
