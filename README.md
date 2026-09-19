@@ -12,10 +12,10 @@ I'm a VLSI enthusiast working across the digital and analog design flow.
 
 ### Technical Skills
 
-**Languages** – C, C++, Python, Shell Scripting, TCL  
-**HDLs** – Verilog, SystemVerilog  
-**Tools & Technologies** – Vivado, Questa Sim, Xilinx SDK, Cadence Virtuoso, Linux  
-**Methodologies** – UVM (Universal Verification Methodology)
+**Languages** – C, Python  
+**HDLs** – Verilog
+**Tools & Technologies** – Vivado, Questa Sim, Cadence Virtuoso, LT Spice, MATLAB, Easy EDA  
+
 
 ---
 
