@@ -16,7 +16,7 @@ Passionate about VLSI
 - **[Digital Domain](https://github.com/Sugandha-github/digital_domain)**  
   Designed and implemented Asynchronous Fifo and the SRAM based LUT design through Cadence Virtuoso
 
-- **[Analog Domain](https://github.com/trinathkella/PRNG)**  
+- **[Analog Domain](https://github.com/hemasugandha/analog_domain)**  
   Designed a 32-bit PRNG with different rulesets of 1D Cellular Automata. In addition, integrated the LFSR.
 
 ---
