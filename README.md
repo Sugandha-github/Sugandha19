@@ -13,7 +13,7 @@ I'm a VLSI enthusiast working across the digital and analog design flow.
 ### Technical Skills
 
 **Languages** – C, Python  
-**HDLs** – Verilog
+**HDLs** – Verilog 
 **Tools & Technologies** – Vivado, Questa Sim, Cadence Virtuoso, LT Spice, MATLAB, Easy EDA  
 
 
