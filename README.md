@@ -14,7 +14,6 @@ I'm a VLSI enthusiast working across the digital and analog design flow.
 
 **Languages** – C, Python  
 **HDLs** – Verilog 
-
 **Tools & Technologies** – Vivado, Questa Sim, Cadence Virtuoso, LT Spice, MATLAB, Easy EDA  
 
 
