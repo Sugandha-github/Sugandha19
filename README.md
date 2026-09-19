@@ -30,15 +30,6 @@ I'm a VLSI enthusiast working across the digital and analog design flow — from
 
 ---
 
-### GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=hemasugandha&show_icons=true&theme=default" alt="hemasugandha's GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemasugandha&layout=compact&theme=default" alt="Top Languages" height="165" />
-</p>
-
----
-
 ### Connect With Me
 
 <p align="left">
