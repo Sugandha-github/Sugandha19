@@ -1,4 +1,4 @@
-<h1>Hi, I'm Hema Sugandha</h1>
+<h1>Hi, I'm Hema Sugandha Dasari</h1>
 Passionate about VLSI
 
 
