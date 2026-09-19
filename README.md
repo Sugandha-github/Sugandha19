@@ -9,7 +9,7 @@
 
 ### About Me
 
-I'm a VLSI enthusiast working across the digital and analog design flow — from RTL and verification to CMOS-level analog blocks. I enjoy building things from first principles, whether that's a self-checking testbench or a PRNG built out of cellular automata rules.
+I'm a VLSI enthusiast working across the digital and analog design flow.
 
 ### Technical Skills
 
